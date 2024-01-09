@@ -1,12 +1,17 @@
 <!-- prettier-ignore -->
 <p align="center">
 <img src="public/logo256.png" width="128px" />
-<h1>📝React.js Todo App</h1>
+<h1>CHECKBOX - 📝React.js Todo App</h1>
 </p>
 <p align="center">
 
 <img src="public/screenshots/iPhone Mockup.png" width="400px" />
 </p>
+> Welcome to CheckBox, the cutting-edge To-Do app designed to simplify your daily tasks and boost your productivity!
+
+## General info
+This project was built using React.js and JavaScript as a way to not only help organise the user's schedule, but to also apply our knowledge of React Native, CRUD and general App building.
+CheckBox provides a seamless and intuitive user experience for managing your to-do lists with efficiency and style.
 
 ## ⚡ Features
 
@@ -39,6 +44,15 @@
 
 <img src="public/screenshots/sspc1.png" width="650px" />
 
+## Technologies
+* React.JS
+* Javascript
+
+## Dependencies
+* async-storage
+* react-navigation
+etc
+
 ## ⚙️ Installation
 
 To install and run the project locally, follow these steps:
@@ -49,3 +63,7 @@ To install and run the project locally, follow these steps:
 - Start the development server: `npm run dev`
 
 The app will now be running at [http://localhost:5173/](http://localhost:5173/).
+
+## Contact
+* Nkechi Nnadi - nkaduba@gmail.com - @Kaych3e(github)
+* Divine Lewis - divinitysoft0@gmail.com - @Divinelewis(github)
