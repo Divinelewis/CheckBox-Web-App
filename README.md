@@ -3,10 +3,7 @@
 <img src="public/logo256.png" width="128px" />
 <h1>CHECKBOX - 📝React.js Todo App</h1>
 </p>
-<p align="center">
 
-<img src="public/screenshots/iPhone Mockup.png" width="400px" />
-</p>
 > Welcome to CheckBox, the cutting-edge To-Do app designed to simplify your daily tasks and boost your productivity!
 
 ## General info
